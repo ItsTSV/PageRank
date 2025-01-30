@@ -15,3 +15,6 @@ Node 210376 -> 0.0050028
 Node 210305 -> 0.0049205
 Node 601656 -> 0.00368971
 ```
+
+Pro jednoduchost jsem si odebral komentáře ze vstupního souboru (# řádky) a na počátku nechal jen počet
+nodes.
